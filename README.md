@@ -12,7 +12,7 @@
 
 <p align="left">
 📚 I am a Computer Science student at CESAR School and I'm focused on learning different programming languages.<br>
-🎯 Interested in software development and game development
+🎯 Interested in software development, game development and problem solving
 </p>
 
 ###
