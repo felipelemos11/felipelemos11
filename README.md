@@ -10,7 +10,10 @@
 
 ###
 
-<p align="left">📚 I am a Computer Science student at CESAR School and I'm focused on learning different programming languages.<br>🎯 Interested in software development and game development</p>
+<p align="left">
+📚 I am a Computer Science student at CESAR School and I'm focused on learning different programming languages.<br>
+🎯 Interested in software development and game development
+</p>
 
 ###
 
@@ -28,8 +31,7 @@
 
 ###
 
-<p align="left">- [fal@cesar.school](mailto:fal@cesar.school)  
-- [felipelemos001@gmail.com](mailto:felipelemos001@gmail.com)
- </p>
-
-###
+<ul align="left">
+  <li><strong>CESAR School e-mail:</strong> <a href="mailto:fal@cesar.school">fal@cesar.school</a></li>
+  <li><strong>Personal e-mail:</strong> <a href="mailto:felipelemos001@gmail.com">felipelemos001@gmail.com</a></li>
+</ul>
