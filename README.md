@@ -34,4 +34,5 @@
 <ul align="left">
   <li><strong>CESAR School e-mail:</strong> <a href="mailto:fal@cesar.school">fal@cesar.school</a></li>
   <li><strong>Personal e-mail:</strong> <a href="mailto:felipelemos001@gmail.com">felipelemos001@gmail.com</a></li>
+  <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/felipelemos001" target="_blank">LinkedIn</a></li>
 </ul>
