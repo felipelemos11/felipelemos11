@@ -28,6 +28,9 @@
 
 ###
 
-<p align="left">CESAR School e-mail: mailto:fal@cesar.school <br>Personal e-mail: mailto: felipelemos001@gmail.com</p>
+<p align="left">
+[fal@cesar.school](mailto:fal@cesar.school)
+[felipelemos001@gmail.com](mailto:felipelemos001@gmail.com)
+</p>
 
 ###
