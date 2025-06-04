@@ -28,9 +28,8 @@
 
 ###
 
-<p align="left">
-[fal@cesar.school](mailto:fal@cesar.school)
-[felipelemos001@gmail.com](mailto:felipelemos001@gmail.com)
-</p>
+<p align="left">- [fal@cesar.school](mailto:fal@cesar.school)  
+- [felipelemos001@gmail.com](mailto:felipelemos001@gmail.com)
+ </p>
 
 ###
