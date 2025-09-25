@@ -24,6 +24,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficons8.com.br%2Ficons%2Fset%2Fc-programming&psig=AOvVaw0q6LMS2VusE2neTnBz7YDR&ust=1758897375353000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMj1r7uR9I8DFQAAAAAdAAAAABAE" />
 </div>
 
 ###
