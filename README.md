@@ -4,6 +4,7 @@
 
 # Felipe de Almeida Lemos
 
+### `Estudante de Ciência da Computação`
 ### `Computer Science Student`
 
 <img src="https://media.tenor.com/0obB9-6H8WIAAAAi/spongebob-pixel.gif" width="140"/>
@@ -26,21 +27,30 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Sobre Mim | About Me
 
-- 🎓 Computer Science student at CESAR School
-- 💻 Focused on Software Engineering, Algorithms and Systems
-- 🧠 Strong interest in problem solving and logical reasoning
-- 🤝 Teamwork, communication and organization skills
-- 📍 Recife, Brazil
+- 🎓 Estudante de Ciência da Computação na CESAR School  
+  🎓 Computer Science student at CESAR School
+
+- 💻 Focado em Engenharia de Software, Algoritmos e Sistemas  
+  💻 Focused on Software Engineering, Algorithms and Systems
+
+- 🧠 Grande interesse em resolução de problemas e raciocínio lógico  
+  🧠 Strong interest in problem solving and logical reasoning
+
+- 🤝 Habilidades em trabalho em equipe, comunicação e organização  
+  🤝 Teamwork, communication and organization skills
+
+- 📍 Recife, Brasil  
+  📍 Recife, Brazil
 
 ---
 
-## 💻 Coding With
+## 💻 Programando Com | Coding With
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css,django,git,github,vscode,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,python,java,js,html,css,django,git,github,vscode,linux&theme=dark" />
 
 </div>
 
