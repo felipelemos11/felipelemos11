@@ -1,42 +1,44 @@
-<h1 align="left">Hello world 👋</h1>
+<div align="center">
 
-###
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=bb0000&height=120&section=header"/>
 
-<p align="left">My name is Felipe de Almeida Lemos</p>
+<img src="https://media.tenor.com/0obB9-6H8WIAAAAi/spongebob-pixel.gif" width="170"/>
 
-###
+# Felipe de Almeida Lemos
 
-<h2 align="left">About me</h2>
+### `Computer Science Student`
 
-###
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF2D2D&center=true&vCenter=true&width=600&lines=Apaixonado+por+programação;C+Programming+Enthusiast;Problem+Solver;Software+Engineering;Sempre+aprendendo+algo+novo"/>
 
-<p align="left">
-📚 I am a Computer Science student at CESAR School and I'm focused on learning different programming languages.<br>
-🎯 Interested in software development, game development and problem solving
+<p align="center">
+  <a href="https://github.com/SEUUSUARIO">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://linkedin.com/in/SEULINK">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:SEUEMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
-###
-
-<h2 align="left">At the moment, I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
 </div>
 
-###
+---
 
-<h2 align="left">💻 Information</h2>
+# 👨‍💻 About Me
 
-###
+```c
+typedef struct {
+    char *name;
+    char *role;
+    char *focus;
+} Developer;
 
-<ul align="left">
-  <li><strong>📧 CESAR School e-mail:</strong> <a href="mailto:fal@cesar.school">fal@cesar.school</a></li>
-  <li><strong>📧 Personal e-mail:</strong> <a href="mailto:felipelemos001@gmail.com">felipelemos001@gmail.com</a></li>
-  <li><a href="https://www.linkedin.com/in/felipelemos001" target="_blank">LinkedIn</a></li>
-</ul>
+Developer felipe = {
+    .name = "Felipe de Almeida Lemos",
+    .role = "Computer Science Student",
+    .focus = "Systems, Algorithms and Software Engineering"
+};
